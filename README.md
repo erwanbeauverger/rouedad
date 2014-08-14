@@ -18,3 +18,5 @@ Explication : http://stackoverflow.com/questions/21023763/difference-between-ang
 ## Authentication
 investiguer http://www.frederiknakstad.com/2014/02/09/ui-router-in-angular-client-side-auth/
 qui utilise UI Router pour séparer vue public privé
+
+l'approche du problème http://frederiknakstad.com/2013/01/21/authentication-in-single-page-applications-with-angular-js/
