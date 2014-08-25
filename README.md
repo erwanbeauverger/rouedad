@@ -4,26 +4,26 @@ Rouedad
 #Choix des librairies Javascript et CSS
 
 ##UI
-#Style Bootstrap
+###Style Bootstrap
 Choix : Angular UI Bootstrap : pure Angular JS avec Bootstrap CSS 3.x
 http://angular-ui.github.io/bootstrap/
 
-#Calendar Arshaw 
+###Calendar Arshaw 
 Full dragndrop calendar for Angular from JQuery
 https://github.com/angular-ui/ui-calendar
 
-#UI Datepicker
+###UI Datepicker
 https://github.com/angular-ui/ui-date
 
-#Content Editor
+###Content Editor
 TinyMCE 
 https://github.com/angular-ui/ui-tinymce
 
-#Sortable list
+###Sortable list
 trè important pour suite de partitions
 https://github.com/angular-ui/ui-sortable
 
-#Google Maps
+###Google Maps
 This directive allows you to add Google Maps Javascript API elements.
 https://github.com/angular-ui/ui-map
 
@@ -53,6 +53,10 @@ https://github.com/sahat/satellizer?utm_source=javascriptweekly&utm_medium=email
 #Database
 CouchDB : JSON DB on server
 PouchDB : mobile local storage to push to the couchdb
+
+#Test
+## Protractor : end to end test for AngularJS
+https://github.com/angular/protractor
 
 # Tips and Tricks
 ## IE8
