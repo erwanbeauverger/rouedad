@@ -4,8 +4,28 @@ Rouedad
 #Choix des librairies Javascript et CSS
 
 ##UI
+#Style Bootstrap
 Choix : Angular UI Bootstrap : pure Angular JS avec Bootstrap CSS 3.x
 http://angular-ui.github.io/bootstrap/
+
+#Calendar Arshaw 
+Full dragndrop calendar for Angular from JQuery
+https://github.com/angular-ui/ui-calendar
+
+#UI Datepicker
+https://github.com/angular-ui/ui-date
+
+#Content Editor
+TinyMCE 
+https://github.com/angular-ui/ui-tinymce
+
+#Sortable list
+trè important pour suite de partitions
+https://github.com/angular-ui/ui-sortable
+
+#Google Maps
+This directive allows you to add Google Maps Javascript API elements.
+https://github.com/angular-ui/ui-map
 
 
 ##Routing
