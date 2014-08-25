@@ -30,6 +30,10 @@ nouvelle solution (25.08.14) : Satellizer
 https://github.com/sahat/satellizer?utm_source=javascriptweekly&utm_medium=email
 
 
+#Database
+CouchDB : JSON DB on server
+PouchDB : mobile local storage to push to the couchdb
+
 # Tips and Tricks
 ## IE8
 F12 to access Developer Tools in IE8
@@ -44,5 +48,7 @@ http://ionicframework.com/blog/angularjs-console/?utm_source=javascriptweekly&ut
 http://www.nostarch.com/javascriptforkids?utm_source=javascriptweekly&utm_medium=email
 
 à chercher : Webbots and spiders and screen scrapers http://www.nostarch.com/javascriptforkids?utm_source=javascriptweekly&utm_medium=email
+
+
 
 
