@@ -50,6 +50,10 @@ nouvelle solution (25.08.14) : Satellizer
 https://github.com/sahat/satellizer?utm_source=javascriptweekly&utm_medium=email
 
 
+a nice article on UI router and auth http://stackoverflow.com/questions/22537311/angular-ui-router-login-authentication
+then they reference ot sample app non trivial
+https://github.com/angular-app/angular-app
+
 #Database
 CouchDB : JSON DB on server
 PouchDB : mobile local storage to push to the couchdb
