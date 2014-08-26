@@ -42,6 +42,8 @@ Explication : http://stackoverflow.com/questions/21023763/difference-between-ang
 
 ### AWS for Static Web Site
 http://www.michaelgallego.fr/blog/2013/08/27/static-website-on-s3-cloudfront-and-route-53-the-right-way/
+### Deploy tool to S3 
+https://github.com/laurilehmijoki/s3_website
 
 
 ## Authentication
