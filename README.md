@@ -82,5 +82,14 @@ http://www.nostarch.com/javascriptforkids?utm_source=javascriptweekly&utm_medium
 à chercher : Webbots and spiders and screen scrapers http://www.nostarch.com/javascriptforkids?utm_source=javascriptweekly&utm_medium=email
 
 
+#Hosting
+## Generation de site static incl blog
+Jekyll http://jekyllrb.com/
+
+##Hosting sur Gitghub pages
+https://pages.github.com/
+
+##Hosting sur AWS S3
+
 
 
