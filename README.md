@@ -40,6 +40,10 @@ Explication : http://stackoverflow.com/questions/21023763/difference-between-ang
 
 ## AWS SDK
 
+### AWS for Static Web Site
+http://www.michaelgallego.fr/blog/2013/08/27/static-website-on-s3-cloudfront-and-route-53-the-right-way/
+
+
 ## Authentication
 investiguer http://www.frederiknakstad.com/2014/02/09/ui-router-in-angular-client-side-auth/
 qui utilise UI Router pour séparer vue public privé
