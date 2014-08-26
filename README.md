@@ -38,6 +38,10 @@ Explication : http://stackoverflow.com/questions/21023763/difference-between-ang
 <script src="js/angular-ui-router.min.js"></script>
 ```
 
+###HTTP API access
+Restangular (recommended by ng-book writers) as nicer than $http and $resource form ngResource (both using the XHR request object)
+
+
 ## AWS SDK
 
 ### AWS for Static Web Site
