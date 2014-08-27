@@ -23,6 +23,11 @@ https://github.com/angular-ui/ui-tinymce
 trè important pour suite de partitions
 https://github.com/angular-ui/ui-sortable
 
+###Smart table
+http://lorenzofox3.github.io/smart-table-website/
+https://github.com/lorenzofox3/Smart-Table
+
+
 ###Google Maps
 This directive allows you to add Google Maps Javascript API elements.
 https://github.com/angular-ui/ui-map
