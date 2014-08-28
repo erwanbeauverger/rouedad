@@ -1,15 +1,15 @@
 Rouedad
 =======
 
-#Cheatsheets
+##Cheatsheets
 -Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists
 
 
-#Choix des librairies Javascript et CSS
+##Choix des librairies Javascript et CSS
 
-##UI
-###Style Bootstrap
-Choix : Angular UI Bootstrap : pure Angular JS avec Bootstrap CSS 3.x http://angular-ui.github.io/bootstrap/
+#UI
+-Style Bootstrap
+---Choix : Angular UI Bootstrap : pure Angular JS avec Bootstrap CSS 3.x http://angular-ui.github.io/bootstrap/
 
 ###File Upload
 ngupload http://twilson63.github.io/ngUpload/
@@ -39,6 +39,8 @@ https://github.com/lorenzofox3/Smart-Table
 This directive allows you to add Google Maps Javascript API elements.
 https://github.com/angular-ui/ui-map
 
+-Video
+with markers and actions on the video timelin https://hacks.mozilla.org/2014/08/building-interactive-html5-videos/?utm_source=html5weekly&utm_medium=email
 
 ##Routing
 Choix : Angular UI Router; raison support plusieurs ng-view dans la même page et les vues "nested" et parallèles.
@@ -76,9 +78,10 @@ a nice article on UI router and auth http://stackoverflow.com/questions/22537311
 then they reference ot sample app non trivial
 https://github.com/angular-app/angular-app
 
-#Database (à tester)
+##Database (à tester)
 CouchDB : JSON DB on server
 PouchDB : mobile local storage to push to the couchdb
+Tutorial https://blog.engineyard.com/2014/an-introduction-to-pouchdb?utm_source=html5weekly&utm_medium=email
 
 #Test
 ## Protractor : end to end test for AngularJS
