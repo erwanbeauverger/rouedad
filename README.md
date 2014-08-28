@@ -39,8 +39,8 @@ https://github.com/lorenzofox3/Smart-Table
 This directive allows you to add Google Maps Javascript API elements.
 https://github.com/angular-ui/ui-map
 
--Video
-with markers and actions on the video timelin https://hacks.mozilla.org/2014/08/building-interactive-html5-videos/?utm_source=html5weekly&utm_medium=email
+- Video
+---with markers and actions on the video timelin ---https://hacks.mozilla.org/2014/08/building-interactive-html5-videos/?utm_source=html5weekly&utm_medium=email
 
 ##Routing
 Choix : Angular UI Router; raison support plusieurs ng-view dans la même page et les vues "nested" et parallèles.
