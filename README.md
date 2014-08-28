@@ -1,16 +1,23 @@
 Rouedad
 =======
 
+#Cheatsheets
+-Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists
+
+
 #Choix des librairies Javascript et CSS
 
 ##UI
 ###Style Bootstrap
-Choix : Angular UI Bootstrap : pure Angular JS avec Bootstrap CSS 3.x
-http://angular-ui.github.io/bootstrap/
+Choix : Angular UI Bootstrap : pure Angular JS avec Bootstrap CSS 3.x http://angular-ui.github.io/bootstrap/
+
+###File Upload
+ngupload http://twilson63.github.io/ngUpload/
 
 ###Calendar Arshaw 
 Full dragndrop calendar for Angular from JQuery
 https://github.com/angular-ui/ui-calendar
+-Timesheet in CSS3 only http://semu.github.io/timesheet.js/?utm_source=html5weekly&utm_medium=email
 
 ###UI Datepicker
 https://github.com/angular-ui/ui-date
@@ -69,7 +76,7 @@ a nice article on UI router and auth http://stackoverflow.com/questions/22537311
 then they reference ot sample app non trivial
 https://github.com/angular-app/angular-app
 
-#Database
+#Database (à tester)
 CouchDB : JSON DB on server
 PouchDB : mobile local storage to push to the couchdb
 
