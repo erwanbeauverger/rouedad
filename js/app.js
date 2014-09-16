@@ -1,7 +1,10 @@
 angular.module("myApp",[
     "myApp.services",
     "myApp.controllers",
-    "satellizer"
+    "satellizer",
+    'ngResource',
+    'ngMessages',
+    'ngRoute'
 ])
 .config(function($authProvider) {
 
@@ -10,7 +13,7 @@ angular.module("myApp",[
     });
 
     $authProvider.google({
-        clientId: '631036554609-v5hm2amv4pvico3asfi97f54sc51ji4o.apps.googleusercontent.com'
+        clientId: '664015000594-10khlribrcrptvrl06kvhifnjl36pt2v.apps.googleusercontent.com'
     });
 
 })
